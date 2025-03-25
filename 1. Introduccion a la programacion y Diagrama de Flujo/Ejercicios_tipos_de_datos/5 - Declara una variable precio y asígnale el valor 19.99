@@ -1,0 +1,5 @@
+Algoritmo DeclararPrecio
+    Definir precio Como Real
+    precio <- 29.99
+    Escribir "El precio es: ", precio
+FinAlgoritmo
